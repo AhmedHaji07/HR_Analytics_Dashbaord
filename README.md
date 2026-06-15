@@ -2,18 +2,27 @@
 This project presents a comprehensive Power BI analytics solution designed to analyze workforce composition, employee demographics, organizational structure, and staffing trends.
 The dashboard transforms HR data into interactive workforce intelligence insights, enabling HR professionals and business leaders to understand employee distribution, monitor organizational capacity, evaluate workforce diversity, and support strategic workforce planning through data-driven decision-making.
 
+
 🎯 Business Objectives:
 
 The primary objectives of this dashboard are to help decision-makers:
 
 ✅ Analyze overall workforce composition and employee demographics
+
 ✅ Understand employee age groups, education levels, and diversity patterns
+
 ✅ Monitor workforce distribution across locations and departments
+
 ✅ Evaluate organizational structure and role distribution
+
 ✅ Analyze hiring trends and workforce growth patterns
+
 ✅ Assess employment types and workforce stability
+
 ✅ Identify workforce gaps and support strategic HR planning
+
 ✅ Enable data-driven decisions related to organizational development
+
 
 📈 Dashboard Components & Key Metrics:
 
