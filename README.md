@@ -3,7 +3,7 @@ This project presents a comprehensive Power BI analytics solution designed to an
 The dashboard transforms HR data into interactive workforce intelligence insights, enabling HR professionals and business leaders to understand employee distribution, monitor organizational capacity, evaluate workforce diversity, and support strategic workforce planning through data-driven decision-making.
 
 
-### 🎯 Business Objectives:
+#### 🎯 Business Objectives:
 
 The primary objectives of this dashboard are to help decision-makers:
 
@@ -24,7 +24,7 @@ The primary objectives of this dashboard are to help decision-makers:
 ✅ Enable data-driven decisions related to organizational development
 
 
-### 📈 Dashboard Components & Key Metrics:
+#### 📈 Dashboard Components & Key Metrics:
 
 • Workforce Overview & Demographic Analysis
 
@@ -35,7 +35,7 @@ The primary objectives of this dashboard are to help decision-makers:
 • Hiring Trends & Workforce Growth Analytics
 
 
-### 🛠️ Tools & Technologies:
+#### 🛠️ Tools & Technologies:
 
 • Power BI
 
@@ -47,7 +47,7 @@ The primary objectives of this dashboard are to help decision-makers:
 
 
 
-### ⭐ Key Dashboard Features:
+#### ⭐ Key Dashboard Features:
 
 ✔ Interactive slicers and filters
 
@@ -64,6 +64,6 @@ The primary objectives of this dashboard are to help decision-makers:
 ✔ Executive-level HR reporting
 
 
-### Project Outcome:
+#### Project Outcome:
 
 The dashboard provides a centralized HR analytics platform that enables organizations to monitor workforce composition, evaluate organizational structure, identify workforce trends, and support strategic planning. By transforming employee data into actionable insights, this solution helps HR teams improve workforce visibility, optimize resource allocation, understand organizational capabilities, and make informed people-focused decisions.
