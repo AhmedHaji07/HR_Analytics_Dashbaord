@@ -27,26 +27,41 @@ The primary objectives of this dashboard are to help decision-makers:
 📈 Dashboard Components & Key Metrics:
 
 • Workforce Overview & Demographic Analysis
+
 • Organizational Structure & Role Analytics
+
 • Employment & Workforce Stability Analysis
+
 • Hiring Trends & Workforce Growth Analytics
+
 
 🛠️ Tools & Technologies:
 
 • Power BI
+
 • Power Query
+
 • DAX
+
 • Microsoft Excel
+
 
 ⭐ Key Dashboard Features:
 
 ✔ Interactive slicers and filters
+
 ✔ Dynamic KPI cards
+
 ✔ Department-level workforce analysis
+
 ✔ Demographic and diversity analytics
+
 ✔ Organizational structure visualization
+
 ✔ Workforce trend monitoring
+
 ✔ Executive-level HR reporting
+
 
 🚀 Project Outcome:
 
