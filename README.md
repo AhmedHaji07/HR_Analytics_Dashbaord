@@ -23,6 +23,7 @@ The primary objectives of this dashboard are to help decision-makers:
 ✅ Enable data-driven decisions related to organizational development
 
 
+
 📈 Dashboard Components & Key Metrics:
 
 • Workforce Overview & Demographic Analysis
@@ -45,6 +46,7 @@ The primary objectives of this dashboard are to help decision-makers:
 • Microsoft Excel
 
 
+
 ⭐ Key Dashboard Features:
 
 ✔ Interactive slicers and filters
@@ -60,6 +62,7 @@ The primary objectives of this dashboard are to help decision-makers:
 ✔ Workforce trend monitoring
 
 ✔ Executive-level HR reporting
+
 
 
 🚀 Project Outcome:
