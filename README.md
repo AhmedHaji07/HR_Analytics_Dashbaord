@@ -24,6 +24,7 @@ The primary objectives of this dashboard are to help decision-makers:
 ✅ Enable data-driven decisions related to organizational development
 
 
+
 #### 📈 Dashboard Components & Key Metrics:
 
 • Workforce Overview & Demographic Analysis
@@ -33,6 +34,7 @@ The primary objectives of this dashboard are to help decision-makers:
 • Employment & Workforce Stability Analysis
 
 • Hiring Trends & Workforce Growth Analytics
+
 
 
 #### 🛠️ Tools & Technologies:
